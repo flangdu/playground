@@ -1,2 +1,1 @@
-import tensorflow as tf
-tf.placeholder()
+print('hello world!')
